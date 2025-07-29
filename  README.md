@@ -23,6 +23,16 @@ A simple and elegant **CRUD web application** built using **Python (Flask)** and
 
 ---
 
+## 📸 Screenshots
+
+| Home Page | Add Task | Update Task |
+|-----------|----------|-------------|
+| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Update](screenshots/update.png) |
+
+
+---
+
+
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Clone the repository
