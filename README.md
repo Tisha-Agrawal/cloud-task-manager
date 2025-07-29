@@ -25,9 +25,18 @@ A simple and elegant **CRUD web application** built using **Python (Flask)** and
 
 ## 📸 Screenshots
 
-| Home Page | Add Task | Update Task |
-|-----------|----------|-------------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Update](screenshots/update.png) |
+<table>
+  <tr>
+    <td>Home Page</td>
+    <td>Add Task</td>
+    <td>Update Task</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.png" width="300"/></td>
+    <td><img src="screenshots/add.png" width="300"/></td>
+    <td><img src="screenshots/update.png" width="300"/></td>
+  </tr>
+</table>
 
 
 ---
@@ -38,5 +47,5 @@ A simple and elegant **CRUD web application** built using **Python (Flask)** and
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cloud-task-manager.git
+git clone https://github.com/Tisha-Agrawal/cloud-task-manager.git
 cd cloud-task-manager
