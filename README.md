@@ -27,9 +27,9 @@ A simple and elegant **CRUD web application** built using **Python (Flask)** and
 
   <table>
     <tr>
-      <td>Home Page</td>
+      <td>Update Page</td>
+      <td>Home Task</td>
       <td>Add Task</td>
-      <td>Update Task</td>
     </tr>
     <tr>
       <td><img src="./screenshots/home.png" width="300"/></td>
@@ -49,3 +49,4 @@ A simple and elegant **CRUD web application** built using **Python (Flask)** and
 ```bash
 git clone https://github.com/Tisha-Agrawal/cloud-task-manager.git
 cd cloud-task-manager
+
